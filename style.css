@@ -6,7 +6,8 @@ header{
     width: 35%;
     align-items: center;
     margin-left: 20px;
-   }
+  height: 2px; ;;  
+}
 body{
  background-color: #2b0790bd;
 
