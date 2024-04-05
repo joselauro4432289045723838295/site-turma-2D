@@ -16,5 +16,6 @@ body{
 .icones {
   width: 120px;
  padding: 10px;
- line-height: 30%;
+ align-items: baseline
+ height: 39%; ;;  
 }
