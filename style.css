@@ -4,7 +4,7 @@ header{
 }
 .roupa1 {
     width: 50%;
-    align-items: center;
+    align-items: last baseline;
     margin-left: 20px;
    }
 body{
