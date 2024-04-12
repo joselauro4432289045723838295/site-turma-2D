@@ -16,7 +16,7 @@ body{
 .icones {
   width: 120px;
  padding: 10px;
- align-items: first baseline;
+ align-items: 10px;
  height: 100px; ;;  
 margin-left: 10%;
 }
