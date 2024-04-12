@@ -20,8 +20,8 @@ body {
 
 .cabecalho-lista-item{
   justify-content: flex-end;
-  align-items: right;
-  text-align: end;
+  align-items:end;
+ 
 }
 
 .escola-imagem{
