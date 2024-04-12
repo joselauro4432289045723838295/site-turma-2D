@@ -9,9 +9,9 @@ body {
   background-color: #8500b9;
   color: white;
   display: flex;
-  justify-content: space-around;
+ 
   align-items: baseline;
-  padding: 24px 5;
+ ;
 }
 
 .cabecalho-imagem{
