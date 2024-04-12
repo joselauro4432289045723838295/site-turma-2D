@@ -19,44 +19,11 @@ body {
 }
 
 .cabecalho-lista-item{
-  display: inline-block;
-    margin: 60 160px;
+  
+    margin: 0 160px;
     font-size: 16px;
-    <style>
-    .flex-container {
-  
-      display: flex;
-      
-      justify-content: flex-end;     
-  
-      background-color: #bbdefb;
-      height: 100%;
-      padding: 15px;
-      gap: 5px;
-  
-    }
-  
-    .flex-container > div{
-      background: #ffecb3;
-      border: 3px solid #ffcc80;
-      border-radius: 5px;
-      padding: 8px;
-    }
-  
-  
-    .item1 { 
-      /* flex:0 1 auto; */
-      order:2;
-      flex-grow:0;
-      flex-shrink:1;
-      align-self:flex-start;
-    }
-        
-    .item2 { 
-      /* flex:0 1 auto; */
-      align-self:flex-start;
-    }
-    
+   
+  }
 
 .escola-imagem{
   width: 25%;
