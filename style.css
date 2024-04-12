@@ -19,8 +19,9 @@ body {
 }
 
 .cabecalho-lista-item{
+  display: flex;
   justify-content: flex-end;
-  align-content: right;
+  align-items: right;
 
 }
 
