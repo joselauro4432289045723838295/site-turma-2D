@@ -21,8 +21,7 @@ body {
 .cabecalho-lista-item{
   justify-content: flex-end;
   align-items: right;
-  margin: 200;
-
+  text-align: end;
 }
 
 .escola-imagem{
