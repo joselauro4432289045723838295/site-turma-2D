@@ -21,8 +21,8 @@ body {
 .cabecalho-lista-item{
   display: inline-block;
  align-items: baseline; right: 40%;
- padding: 15px;
-margin: 30%;
+ padding: 10px;
+
 }
 
 .escola-imagem{
