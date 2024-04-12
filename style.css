@@ -19,8 +19,8 @@ body {
 }
 
 .cabecalho-lista-item{
-  display: inline-block;
- align-items: baseline; right: 40%;
+  display: flex;
+  justify-content: flex-end;
  padding: 10px;
 
 }
@@ -83,10 +83,6 @@ body {
   height: 60px;
   padding: 12px 0;
  
-}
-.cabecalho-lista{ 
-  display: flex;
-  justify-content: flex-end;
 }
 
 
