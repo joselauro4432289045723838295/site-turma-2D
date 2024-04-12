@@ -56,17 +56,7 @@ body {
       /* flex:0 1 auto; */
       align-self:flex-start;
     }
-        
-  
-  </style>
-  
-  <div class="flex-container">
-     
-      <div class="Perfil">item 1</div>
-      <div class="Config">item 2</div>
-  
-  </div>
-  }
+    
 
 .escola-imagem{
   width: 25%;
