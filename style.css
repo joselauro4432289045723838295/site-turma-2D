@@ -85,6 +85,10 @@ body {
  
 }
 .cabecalho-lista{ 
+  display: flex;
+  justify-content: flex-end;
+}
+
 
 
 }
