@@ -20,7 +20,7 @@ body {
 
 .cabecalho-lista-item{
   justify-content: flex-end;
-  align-items:flex-end;
+  align-items:self-end;
  
 }
 
