@@ -21,7 +21,6 @@ body {
 .cabecalho-lista-item{
   display: flex;
   justify-content: flex-end;
- padding: 10px;
 
 }
 
