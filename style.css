@@ -19,7 +19,7 @@ body {
 }
 
 .cabecalho-lista-item{
-  display: inline-block;
+ 
  align-items:  last baseline; right: 40%;
  padding: 15px;
 }
