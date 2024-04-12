@@ -19,9 +19,10 @@ body {
 }
 
 .cabecalho-lista-item{
- 
- align-items:  last baseline; right: 40%;
+  display: inline-block;
+ align-items: baseline; right: 40%;
  padding: 15px;
+margin: 30%;
 }
 
 .escola-imagem{
