@@ -117,7 +117,7 @@ transition: 0.8s;
  }
 
  .barra-pesquisa:hover input {
-width: 200px;
+width: 20px;
 } 
 
  .barra-pesquisa button {
@@ -126,7 +126,7 @@ width: 200px;
   background-color: #3c1053;
   color: #fff;
   font-size: 16px;
-  border-radius: 5%;
+  border-radius: 50%;
   cursor: pointer;
  }
 
