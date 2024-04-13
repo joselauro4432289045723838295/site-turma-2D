@@ -140,6 +140,11 @@ cursor: pointer;
   50% {
     transform: translateY(calc(-50% - 5px)) scale(1.1);
   }
+
+  .icon {
+  align-self: center;
+ }
+
 }
 
 
