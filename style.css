@@ -131,10 +131,13 @@ width: 200px;
  }
  .config {
  width: 3%;
+}
 
- }
+.configuracao {
+align-items: flex-start;
+justify-content: end;
 
-
+}
  
 
 
