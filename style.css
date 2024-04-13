@@ -96,57 +96,42 @@ cursor: pointer;
 .rodape-imagem{
   height: 60px;
   padding: 12px 0;
- 
-}
-.input-container {
-  width: 220px;
-  position: relative;
-}
-
-.icon {
-  position: absolute;
-  right: 10px;
-  top: calc(50% + 5px);
-  transform: translateY(calc(-50% - 5px));
-}
-
-.input {
-  width: 100%;
-  height: 40px;
-  padding: 10px;
-  transition: .2s linear;
-  border: 2.5px solid black;
-  font-size: 14px;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-}
-
-.input:focus {
-  outline: none;
-  border: 0.5px solid black;
-  box-shadow: -5px -5px 0px black;
-}
-
-.input-container:hover > .icon {
-  animation: anim 1s linear infinite;
-}
-
-@keyframes anim {
-  0%,
-  100% {
-    transform: translateY(calc(-50% - 5px)) scale(1);
-  }
-
-  50% {
-    transform: translateY(calc(-50% - 5px)) scale(1.1);
-  }
-
-  .icon {
-  align-self: center;
  }
 
+ 
+.barra-pesquisa{
+ display: flex;
+ justify-content: center;
+background-color: #8500b9;
+padding: 1%;
+border-radius: 32px;
+box-shadow: rgba(100, 100, 111, 0.2) 0 7px 29px 0px;
 }
 
+ .barra-pesquisa input {
+ border: 0;
+background-color: transparent;
+font-size: 16px;
+width: 0;
+transition: 0.8s;
+ }
+
+ .barra-pesquisa:hover input {
+width: 200px;
+} 
+
+ .barra-pesquisa button {
+  padding: 10px;
+  border: 0;
+  background-color: #3c1053;
+  color: #fff;
+  font-size: 16px;
+  border-radius: 50%;
+  cursor: pointer;
+ }
+
+
+ 
 
 
 
