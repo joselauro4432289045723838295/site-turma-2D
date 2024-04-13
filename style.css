@@ -129,10 +129,10 @@ width: 200px;
   border-radius: 50%;
   cursor: pointer;
  }
- .config {
- width: 3%;
-  align-items: flex-start;
-  justify-content: end;
+ .config { 
+  position: absolute;
+ top: 0%;
+  left: 100%;
 }
 
 
