@@ -74,6 +74,7 @@ cursor: pointer;
 
 .produtos-div{
   margin: 0 16px;
+  display: flex;
   text-align: center;
 }
 
