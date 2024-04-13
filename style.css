@@ -29,7 +29,8 @@ body {
   }
 
 .escola-imagem{
-  width: 50%;
+  width: 55%;
+  align-items: center;
 }
 
 .Loja {
@@ -144,11 +145,7 @@ width: 200px;
    width: 3%;
    cursor: pointer;
   } 
-  .KTX {
- align-items: center;
- width: 50%;
-}
-
+ 
 
 
 
