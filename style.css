@@ -32,7 +32,7 @@ body {
   width: 25%;
 }
 
-.escola{
+.Loja {
   background-image: linear-gradient(#9700dd,#8f37e2);
   color:white;
   display: flex;
@@ -41,19 +41,19 @@ body {
   padding: 24px 0;
 }
 
-.escola-div-conteudo{
+.loja-div-conteudo{
   width: 35%;
 }
 
 
-.escola-titulo{
+.loja-titulo{
   padding: 24px 0;
 }
 
 .estudante{
   padding: 24px 0;
 }
-.estudante-imagem{
+.roupa-imagem{
   width: 120px;
 }
 
@@ -62,17 +62,17 @@ body {
   padding: 4px 8px;
 }
 
-.estudante-div{
+.produtos-div{
   text-align: center;
   padding: 16px 0;
 }
 
-.estudante-titulo{
+.conteudo-titulo{
   text-align: center;
   padding: 50px 0;
 }
 
-.estudante-todos{
+.produtos{
   display: grid;
   grid-template-columns: 20% 20% 20% 20% 20%;
 }
