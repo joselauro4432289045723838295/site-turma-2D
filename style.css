@@ -99,9 +99,11 @@ cursor: pointer;
   padding: 12px 0;
  }
  .instagram-imagem{
+  position: absolute;
  height: 40px;
  padding: 20px;
  left: 94%;
+ cursor: pointer;
 
 
  }
