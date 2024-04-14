@@ -98,7 +98,12 @@ cursor: pointer;
   height: 60px;
   padding: 12px 0;
  }
+ .instagram-imagem{
+ height: 40px;
+ padding: 20px;
 
+
+ }
  
 .barra-pesquisa{
  display: flex;
