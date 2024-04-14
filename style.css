@@ -104,8 +104,22 @@ cursor: pointer;
  padding: 20px;
  left: 94%;
  cursor: pointer;
+}
+ 
+ .youtube-imagem {
+  position: absolute;
+  height: 40px;
+  padding: 20px;
+  left: 90%;
+  cursor: pointer;
+ }
 
-
+ .tiktok-imagem {
+  position: absolute;
+ height: 40px;
+ padding: 20px;
+ left: 92%;
+ cursor: pointer;
  }
  
 .barra-pesquisa{
